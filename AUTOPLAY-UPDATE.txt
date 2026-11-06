@@ -1,0 +1,6 @@
+AU INTERIORS HERO SLIDER UPDATE
+
+The Home page hero now automatically changes slides every 4 seconds.
+Slides: hero-01.jpg, hero-02.jpg, hero-03.jpg
+Manual previous/next arrows and slide dots are still available.
+The slideshow starts automatically when index.html loads.

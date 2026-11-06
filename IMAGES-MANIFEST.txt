@@ -1,0 +1,26 @@
+AU INTERIORS — IMAGE MANIFEST
+
+Founder
+- images/founder/founder-afra-ulfath.jpg
+
+Main categories
+- images/categories/category-residential.jpg
+- images/categories/category-hospitality.jpg
+- images/categories/category-healthcare.jpg
+- images/categories/category-cafe.jpg
+- images/categories/category-corporate.jpg
+- images/categories/category-commercial.jpg
+
+Project galleries: 5 images each
+- residential/ residential-01..05
+- hospitality/ hospitality-01..05
+- healthcare/ healthcare-01..05
+- cafe/ cafe-01..05
+- corporate/ corporate-01..05
+- commercial/ commercial-01..05
+
+The supplied collages were separated into individual image assets for website use.
+
+images/new-site/hero.jpg -> Home page hero image (user-provided)
+Hero slider: images/new-site/hero-01.jpg, hero-02.jpg, hero-03.jpg (user supplied).
+Harika profile: images/designers/harika.jpg replaced with latest user supplied portrait.
